@@ -1,31 +1,47 @@
-#EXTINF:-1 tvg-id="Star+ HD 14 (B)" tvg-name="Disney+ 1 HD" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 1 HD
+#EXTINF:-1 tvg-id="Disney+ 1 (B)" tvg-name="Disney+ 1" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 1
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952472.ts
+#EXTINF:-1 tvg-id="Star+ HD 11 (B)" tvg-name="Disney+ 1 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 1 (A)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176744.ts
-#EXTINF:-1 tvg-id="Star+ HD 13 (B)" tvg-name="Disney+ 1 HD (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 1 HD (A)
-http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/82245.ts
-#EXTINF:-1 tvg-id="Star+ HD 12 (B)" tvg-name="Disney+ 2 HD" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 2 HD
+#EXTINF:-1 tvg-id="Disney+ 1 SD (B)" tvg-name="Disney+ 1 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 1 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952474.ts
+#EXTINF:-1 tvg-id="Star+ HD 12 (B)" tvg-name="Disney+ 2" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 2
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176743.ts
-#EXTINF:-1 tvg-id="Star+ HD 11 (B)" tvg-name="Disney+ 2 HD (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 2 HD (A)
+#EXTINF:-1 tvg-id="Disney+ 2 (B)" tvg-name="Disney+ 2 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 2 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952473.ts
+#EXTINF:-1 tvg-id="Star+ HD 11 (B)" tvg-name="Disney+ 2 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 2 (B)
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/82510.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 3" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 3
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ 3" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 3
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/82512.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 4" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 4
-http://trabalho724.top:8080/08588258823/glyunfry/64708
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 4 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 4 (A)
+#EXTINF:-1 tvg-id="Star+ HD 9 (B)" tvg-name="Disney+ 3 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 3 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176742.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ 4" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 4
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/85329.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 4 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 4 (B)
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ 4 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 4 (A)
 http://trabalho724.top:8080/08588258823/glyunfry/297171
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 5" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 5
-http://trabalho724.top:8080/08588258823/glyunfry/59972
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 5 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 5 (A)
+#EXTINF:-1 tvg-id="Star+ HD 8 (B)" tvg-name="Disney+ 4 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 4 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176741.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ 5" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 5
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/85330.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 5 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 5 (B)
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ 5 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 5 (A)
 http://trabalho724.top:8080/08588258823/glyunfry/297172
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 6" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 6
+#EXTINF:-1 tvg-id="Star+ HD 7 (B)" tvg-name="Disney+ 5 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 5 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/176740.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ 6" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 6
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/89548.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 6 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 6 (A)
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ 6 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 6 (A)
 http://trabalho724.top:8080/08588258823/glyunfry/297173
-#EXTINF:-1 tvg-id="Disney+ HD 7 (A)" tvg-name="Disney+ HD 7 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 7 (A)
+#EXTINF:-1 tvg-id="Disney+ 6 (B)" tvg-name="Disney+ 6 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 6 (B)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/91276.ts
+#EXTINF:-1 tvg-id="Disney+ 7" tvg-name="Disney+ 7" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 7
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/931459.ts
+#EXTINF:-1 tvg-id="Disney+ 7 (A)" tvg-name="Disney+ 7 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 7 (A)
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/931356.ts
+#EXTINF:-1 tvg-id="Disney+ 8" tvg-name="Disney+ 8" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 8
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/931357.ts
+#EXTINF:-1 tvg-id="Disney+ 9" tvg-name="Disney+ 9" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 9
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/931358.ts
+#EXTINF:-1 tvg-id="Disney+ 10" tvg-name="Disney+ 10" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 10
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/952476.ts
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN HD
 http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/73051.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2 HD
