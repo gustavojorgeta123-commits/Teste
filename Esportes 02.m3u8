@@ -108,11 +108,11 @@ http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/215401.ts
 http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/85337.ts
 #EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 5
 http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/38398.ts
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 (A)" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | ESPN",ESPN 5 (A)
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 (A)" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 5 (A)
 http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/50545.ts
 #EXTINF:-1 tvg-id="ESPN Extra FHD" tvg-name="ESPN 6" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 6
 http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/129624.ts
-#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 (A)" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | ESPN",ESPN 6 (A)
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 6 (A)" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 6 (A)
 http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/62818.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="MAX 1" tvg-logo="https://i.imgur.com/o4xWyls.png" group-title="Canais | MAX",MAX 1
 http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/82375.ts
@@ -208,3 +208,27 @@ http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/931989.ts
 http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/931990.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="NBA TV" tvg-logo="https://i.imgur.com/NS2k4oJ.png" group-title="Canais | NBA League Pass",NBA TV
 http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/85564.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="https://i.imgur.com/G9nCuZT.png" group-title="Canais | SporTV",SporTV
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/40785.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV (A)" tvg-logo="https://i.imgur.com/G9nCuZT.png" group-title="Canais | SporTV",SporTV (A)
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/38419.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/wINVzUp.png" group-title="Canais | SporTV",SporTV 2
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/215402.ts
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 (A)" tvg-logo="https://i.imgur.com/wINVzUp.png" group-title="Canais | SporTV",SporTV 2 (A)
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/38395.ts
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/Srf3e8w.png" group-title="Canais | SporTV",SporTV 3
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/38394.ts
+#EXTINF:-1 tvg-id="SporTV 4 HD" tvg-name="SporTV 4" tvg-logo="https://i.imgur.com/SMrn7Gf.png" group-title="Canais | SporTV",SporTV 4
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/127664.ts
+#EXTINF:-1 tvg-id="SporTV 5 HD" tvg-name="SporTV 5" tvg-logo="https://i.imgur.com/SMrn7Gf.png" group-title="Canais | SporTV",SporTV 5
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/956438.ts
+#EXTINF:-1 tvg-id="SporTV 6 HD" tvg-name="SporTV 6" tvg-logo="https://i.imgur.com/SMrn7Gf.png" group-title="Canais | SporTV",SporTV 6
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/956439.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UFC Fight Pass 1" tvg-logo="https://i.imgur.com/GVyCH7T.png" group-title="Canais | UFC Fight Pass",UFC Fight Pass 1
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/100815.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UFC Fight Pass 2" tvg-logo="https://i.imgur.com/GVyCH7T.png" group-title="Canais | UFC Fight Pass",UFC Fight Pass 2
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/94688.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UFC Fight Pass 3" tvg-logo="https://i.imgur.com/GVyCH7T.png" group-title="Canais | UFC Fight Pass",UFC Fight Pass 3
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/92272.ts
+#EXTINF:-1 tvg-id="UFC Fight Pass FHD (B)" tvg-name="UFC Fight Pass 4" tvg-logo="https://i.imgur.com/GVyCH7T.png" group-title="Canais | UFC Fight Pass",UFC Fight Pass 4
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/177136.ts
